@@ -28,7 +28,7 @@ O objetivo é treinar manipulação do DOM, eventos de clique e estilização co
 
 ## 🖼️ Demonstração
 
-![Calculadora Preview]()
+🔗[Calculadora Preview](https://brunocamargodev.github.io/Calculadora-JS/)
 
 ---
 
